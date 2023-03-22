@@ -25,7 +25,7 @@ As a user I want to be able to only see my books and not let other users see my 
 
 ## Domain Model
 
-![WRRC v1.0](storybook-ai-front-end/assets/wrrc.png)
+![WRRC v1.0](assets/wrrc.png)
 
 
 ## Cooperation Plan
