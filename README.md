@@ -1,9 +1,9 @@
-# 301-project-tempname
+# Storybook-AI
 
 ## Team
 
-- James Ian R. Solima
 - Sheldon Pierce
+- James Ian R. Solima
 - Ethan Albers
 - Reed Vogt
 
